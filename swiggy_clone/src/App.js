@@ -2,6 +2,16 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  // header 
+  //                        -logo
+                             //-navitem
+  // /body
+     // search 
+     //restaurnats cards
+  // footer
+  // copy right
+  // address
+  // contact
   return (
     <div className="App">
       <header className="App-header">
